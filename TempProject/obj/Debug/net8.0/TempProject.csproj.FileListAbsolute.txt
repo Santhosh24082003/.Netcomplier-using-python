@@ -1,0 +1,14 @@
+C:\Users\chend\Desktop\.net compiler\TempProject\bin\Debug\net8.0\TempProject.exe
+C:\Users\chend\Desktop\.net compiler\TempProject\bin\Debug\net8.0\TempProject.deps.json
+C:\Users\chend\Desktop\.net compiler\TempProject\bin\Debug\net8.0\TempProject.runtimeconfig.json
+C:\Users\chend\Desktop\.net compiler\TempProject\bin\Debug\net8.0\TempProject.dll
+C:\Users\chend\Desktop\.net compiler\TempProject\bin\Debug\net8.0\TempProject.pdb
+C:\Users\chend\Desktop\.net compiler\TempProject\obj\Debug\net8.0\TempProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chend\Desktop\.net compiler\TempProject\obj\Debug\net8.0\TempProject.AssemblyInfoInputs.cache
+C:\Users\chend\Desktop\.net compiler\TempProject\obj\Debug\net8.0\TempProject.AssemblyInfo.cs
+C:\Users\chend\Desktop\.net compiler\TempProject\obj\Debug\net8.0\TempProject.csproj.CoreCompileInputs.cache
+C:\Users\chend\Desktop\.net compiler\TempProject\obj\Debug\net8.0\TempProject.dll
+C:\Users\chend\Desktop\.net compiler\TempProject\obj\Debug\net8.0\refint\TempProject.dll
+C:\Users\chend\Desktop\.net compiler\TempProject\obj\Debug\net8.0\TempProject.pdb
+C:\Users\chend\Desktop\.net compiler\TempProject\obj\Debug\net8.0\TempProject.genruntimeconfig.cache
+C:\Users\chend\Desktop\.net compiler\TempProject\obj\Debug\net8.0\ref\TempProject.dll
